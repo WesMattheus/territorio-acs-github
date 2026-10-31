@@ -1,3 +1,4 @@
+# Território — Saúde em Campo
 
 Protótipo acadêmico desenvolvido para a disciplina de **Interação Humano-Computador (IHC)** da **Universidade de Pernambuco (UPE)**. O projeto propõe uma solução para apoiar o trabalho dos **Agentes Comunitários de Saúde (ACS)** e a gestão das informações pela **Secretaria Municipal de Saúde**, considerando o contexto de Vicência, Pernambuco.
 

@@ -1,6 +1,6 @@
 # Território — Saúde em campo
 
-Primeiro protótipo funcional acadêmico de IHC para agentes comunitários e a Secretaria de Saúde de Vicência (PE). Mantém o desenho original, com identidade própria e sem logotipos oficiais.
+Primeiro protótipo funcional acadêmico de IHC para agentes comunitários e a Secretaria de Saúde de Vicência (PE). Mantém o desenho original, com identidade própria.
 
 ## Começar no VS Code
 
